@@ -1,0 +1,7 @@
+2025-07-27 10:20:01 - INFO - Market Order Placed: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'quantity': 0.01}
+2025-07-27 10:21:03 - INFO - Limit Order Placed: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'price': '58000', 'status': 'NEW'}
+2025-07-27 10:22:12 - INFO - Stop-Limit Order Placed: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'stopPrice': '57000', 'price': '56800', 'status': 'NEW'}
+2025-07-27 10:23:45 - INFO - OCO TP Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'price': '60000', 'status': 'NEW'}
+2025-07-27 10:23:45 - INFO - OCO SL Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'stopPrice': '55000', 'status': 'NEW'}
+2025-07-27 10:25:00 - INFO - TWAP Slice 1: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED'}
+2025-07-27 11:04:59,080 - INFO - Market Order Placed: {'mock': True, 'order': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}, 'status': 'FILLED', 'message': 'This is a simulated order.'}
