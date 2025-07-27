@@ -43,18 +43,3 @@ python src/advanced/twap.py <API_KEY> <API_SECRET> BTCUSDT BUY 0.05 5 10
 ##  Logging
 All actions are recorded in `bot.log` with timestamps.
 
-##  Project Structure
-
-/binance_bot/
-├── src/
-│   ├── client_config.py
-│   ├── market_orders.py
-│   ├── limit_orders.py
-│   └── advanced/
-│       ├── stop_limit.py
-│       ├── oco.py
-│       └── twap.py
-├── bot.log
-├── README.md
-└── report.pdf
-
